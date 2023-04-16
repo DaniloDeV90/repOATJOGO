@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 
+//Trabalho realizado com Kaio Lucas e Amilton
 namespace Jogo
 {
     public class Program
